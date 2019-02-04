@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+fieldset {
+    margin: auto;
+    width: 500px;
+    text-align: center;
+}
+
+#Alert {
+    color: red;
+}
